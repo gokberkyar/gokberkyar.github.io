@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-Thanks for stopping by. I am first year CS PhD Student at Northeastern University. I am a member of [NDS2](https://nds2.ccs.neu.edu/) lab. I am co-advised with Alina Oprea and Cristina Nita-Rotaru. I work on Machine Learning and Distributed Systems. 
+Thanks for stopping by. I am a first year CS PhD Student at Northeastern University. I am a member of [NDS2](https://nds2.ccs.neu.edu/) lab. Alina Oprea and Cristina Nita-Rotaru co-advice me. I work on Machine Learning and Distributed Systems. 
